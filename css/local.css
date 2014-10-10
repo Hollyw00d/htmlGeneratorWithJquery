@@ -4,3 +4,10 @@ textarea {
     height: 100px;
     border: 1px solid #000;
 }
+
+#generated-html-here {
+    display: block;
+    width: 500px;
+    height: 100px;
+    border: 1px solid #000;
+}
